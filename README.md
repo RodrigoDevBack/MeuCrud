@@ -4,8 +4,9 @@
  Requisitos:
  -Python 3.12
  -Biblioteca PySimpleGUI
-
- Executar na pasta 'interface' o arquivo 'app.py';
+ 
+ As pastas devem estar salvas no mesmo local;
+ Executar da pasta 'interface' o arquivo 'app.py';
  
  Será aberta uma janela que poderá ser escrito a informação que desejas guardar;
  
