@@ -1,7 +1,13 @@
 # MeuCrud
  Meu primeiro CRUD usando a linguagem python. Este CRUD é interligado a uma interface gráfica chamada PySimpleGUI.
+
+ Requisitos:
+ -Python 3.12
+ -Biblioteca PySimpleGUI
+
+ Executar na pasta 'main' o arquivo 'main.py';
  
- Depois de fazer a clonagem, rodando o sistema, será aberta uma janela que poderá ser escrito a informação que desejas guardar;
+ Será aberta uma janela que poderá ser escrito a informação que desejas guardar;
  
  Depois poderá optar por marcar a check-box com o objetivo de permitir que o sistema crie o arquivo, aguardando até que seja confirmado a solicitação para que a ação seja executada, 
  quando executada usará o nome escrito no InputText como o título do arquivo;
