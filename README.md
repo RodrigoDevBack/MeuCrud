@@ -5,8 +5,7 @@
  -Python 3.12
  -Biblioteca PySimpleGUI
  
- As pastas devem estar salvas no mesmo local;
- Executar da pasta 'interface' o arquivo 'app.py';
+ Executar da pasta 'app' o arquivo 'window.py';
  
  Será aberta uma janela que poderá ser escrito a informação que desejas guardar;
  
