@@ -1,9 +1,7 @@
 # MeuCrud
  Meu primeiro CRUD usando a linguagem python. Este CRUD é interligado a uma interface gráfica chamada PySimpleGUI.
 
- Requisitos:
- -Python 3.12
- -Biblioteca PySimpleGUI
+ Faça o download dos pacotes dentro do 'requimrements.txt';
  
  Executar da pasta 'app' o arquivo 'window.py';
  
